@@ -63,7 +63,7 @@ Interested in building practical software, intelligent systems and AI-powered ap
 | [Agentic Software Development Workflow](https://github.com/shriharsha-vadali/agentic-software-development-workflow) | Converts GitHub issues into planned and tested code changes | Python, AI Agents, SQLAlchemy |
 | [Human Gait Identification](https://github.com/shriharsha-vadali/human-gait-identification) | Human identification using gait features | Python, ML, OpenPose |
 | AI Document Q&A | Document question answering using retrieval-augmented generation | Python, LangChain, RAG |
-| Insurance Policy Management | Insurance policy management application | C#, .NET, SQL |
+| AI-Powered Real-Time Fraud Detection System | Detects potentially fraudulent financial transactions using machine learning, anomaly detection and risk scoring | Python, Scikit-learn, FastAPI, Pandas, PostgreSQL, Docker |
 
 ---
 
